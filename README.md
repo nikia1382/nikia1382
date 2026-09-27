@@ -12,7 +12,9 @@ I also work with React, Redux and React Query.
 ### Tech
 
 **Core:** Angular · TypeScript · Angular Material · PrimeNG · Reactive Forms · REST APIs · Routing & Lazy Loading · Internationalization (i18n)
+
 **React ecosystem:** React · Redux · React Query
+
 **Also:** HTML · CSS · JavaScript · Tailwind CSS · MUI · Git / GitLab
 
 ### Currently building
